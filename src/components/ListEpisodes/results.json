@@ -1,0 +1,2204 @@
+{
+  "results": [
+    {
+      "id": "1",
+      "name": "Pilot",
+      "episode": "S01E01",
+      "air_date": "December 2, 2013",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Bepisian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+        },
+        {
+          "name": "Canklanker Thom",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        },
+        {
+          "name": "Davin",
+          "image": "https://rickandmortyapi.com/api/character/avatar/92.jpeg"
+        },
+        {
+          "name": "Frank Palicky",
+          "image": "https://rickandmortyapi.com/api/character/avatar/127.jpeg"
+        },
+        {
+          "name": "Glenn",
+          "image": "https://rickandmortyapi.com/api/character/avatar/144.jpeg"
+        },
+        {
+          "name": "Hookah Alien",
+          "image": "https://rickandmortyapi.com/api/character/avatar/158.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg"
+        },
+        {
+          "name": "Jessica",
+          "image": "https://rickandmortyapi.com/api/character/avatar/179.jpeg"
+        },
+        {
+          "name": "Jessica's Friend",
+          "image": "https://rickandmortyapi.com/api/character/avatar/181.jpeg"
+        },
+        {
+          "name": "Mr. Goldenfold",
+          "image": "https://rickandmortyapi.com/api/character/avatar/239.jpeg"
+        },
+        {
+          "name": "Mrs. Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/249.jpeg"
+        },
+        {
+          "name": "Principal Vagina",
+          "image": "https://rickandmortyapi.com/api/character/avatar/271.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/338.jpeg"
+        },
+        {
+          "name": "Davin",
+          "image": "https://rickandmortyapi.com/api/character/avatar/394.jpeg"
+        },
+        {
+          "name": "Greebybobe",
+          "image": "https://rickandmortyapi.com/api/character/avatar/395.jpeg"
+        },
+        {
+          "name": "Pripudlian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/435.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Lawnmower Dog",
+      "episode": "S01E02",
+      "air_date": "December 9, 2013",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+        },
+        {
+          "name": "Bill",
+          "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg"
+        },
+        {
+          "name": "Centaur",
+          "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+        },
+        {
+          "name": "Creepy Little Girl",
+          "image": "https://rickandmortyapi.com/api/character/avatar/80.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg"
+        },
+        {
+          "name": "Melissa",
+          "image": "https://rickandmortyapi.com/api/character/avatar/221.jpeg"
+        },
+        {
+          "name": "Mr. Goldenfold",
+          "image": "https://rickandmortyapi.com/api/character/avatar/239.jpeg"
+        },
+        {
+          "name": "Mrs. Pancakes",
+          "image": "https://rickandmortyapi.com/api/character/avatar/246.jpeg"
+        },
+        {
+          "name": "Scary Brandon",
+          "image": "https://rickandmortyapi.com/api/character/avatar/304.jpeg"
+        },
+        {
+          "name": "Scary Glenn",
+          "image": "https://rickandmortyapi.com/api/character/avatar/305.jpeg"
+        },
+        {
+          "name": "Scary Terry",
+          "image": "https://rickandmortyapi.com/api/character/avatar/306.jpeg"
+        },
+        {
+          "name": "Snuffles (Snowball)",
+          "image": "https://rickandmortyapi.com/api/character/avatar/329.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/338.jpeg"
+        },
+        {
+          "name": "Scary Teacher",
+          "image": "https://rickandmortyapi.com/api/character/avatar/396.jpeg"
+        },
+        {
+          "name": "Fido",
+          "image": "https://rickandmortyapi.com/api/character/avatar/397.jpeg"
+        },
+        {
+          "name": "Accountant dog",
+          "image": "https://rickandmortyapi.com/api/character/avatar/398.jpeg"
+        },
+        {
+          "name": "Trunkphobic suspenders guy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/405.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Anatomy Park",
+      "episode": "S01E03",
+      "air_date": "December 16, 2013",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Alexander",
+          "image": "https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+        },
+        {
+          "name": "Annie",
+          "image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+        },
+        {
+          "name": "Bill",
+          "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg"
+        },
+        {
+          "name": "Tuberculosis",
+          "image": "https://rickandmortyapi.com/api/character/avatar/96.jpeg"
+        },
+        {
+          "name": "Gonorrhea",
+          "image": "https://rickandmortyapi.com/api/character/avatar/97.jpeg"
+        },
+        {
+          "name": "Hepatitis A",
+          "image": "https://rickandmortyapi.com/api/character/avatar/98.jpeg"
+        },
+        {
+          "name": "Hepatitis C",
+          "image": "https://rickandmortyapi.com/api/character/avatar/99.jpeg"
+        },
+        {
+          "name": "Bubonic Plague",
+          "image": "https://rickandmortyapi.com/api/character/avatar/100.jpeg"
+        },
+        {
+          "name": "E. Coli",
+          "image": "https://rickandmortyapi.com/api/character/avatar/101.jpeg"
+        },
+        {
+          "name": "Dr. Xenon Bloom",
+          "image": "https://rickandmortyapi.com/api/character/avatar/108.jpeg"
+        },
+        {
+          "name": "Eric McMan",
+          "image": "https://rickandmortyapi.com/api/character/avatar/112.jpeg"
+        },
+        {
+          "name": "Ethan",
+          "image": "https://rickandmortyapi.com/api/character/avatar/114.jpeg"
+        },
+        {
+          "name": "Jacob",
+          "image": "https://rickandmortyapi.com/api/character/avatar/169.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg"
+        },
+        {
+          "name": "Joyce Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/186.jpeg"
+        },
+        {
+          "name": "Leonard Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/201.jpeg"
+        },
+        {
+          "name": "Poncho",
+          "image": "https://rickandmortyapi.com/api/character/avatar/268.jpeg"
+        },
+        {
+          "name": "Roger",
+          "image": "https://rickandmortyapi.com/api/character/avatar/300.jpeg"
+        },
+        {
+          "name": "Ruben",
+          "image": "https://rickandmortyapi.com/api/character/avatar/302.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/338.jpeg"
+        },
+        {
+          "name": "Tom Randolph",
+          "image": "https://rickandmortyapi.com/api/character/avatar/356.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "M. Night Shaym-Aliens!",
+      "episode": "S01E04",
+      "air_date": "January 13, 2014",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+        },
+        {
+          "name": "Cynthia",
+          "image": "https://rickandmortyapi.com/api/character/avatar/87.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg"
+        },
+        {
+          "name": "Jessica",
+          "image": "https://rickandmortyapi.com/api/character/avatar/179.jpeg"
+        },
+        {
+          "name": "Jessica's Friend",
+          "image": "https://rickandmortyapi.com/api/character/avatar/181.jpeg"
+        },
+        {
+          "name": "Kevin",
+          "image": "https://rickandmortyapi.com/api/character/avatar/191.jpeg"
+        },
+        {
+          "name": "Mr. Goldenfold",
+          "image": "https://rickandmortyapi.com/api/character/avatar/239.jpeg"
+        },
+        {
+          "name": "Mr. Marklovitz",
+          "image": "https://rickandmortyapi.com/api/character/avatar/241.jpeg"
+        },
+        {
+          "name": "Prince Nebulon",
+          "image": "https://rickandmortyapi.com/api/character/avatar/270.jpeg"
+        },
+        {
+          "name": "Stu",
+          "image": "https://rickandmortyapi.com/api/character/avatar/337.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/338.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Meeseeks and Destroy",
+      "episode": "S01E05",
+      "air_date": "January 20, 2014",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+        },
+        {
+          "name": "Big Boobed Waitress",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        {
+          "name": "Dale",
+          "image": "https://rickandmortyapi.com/api/character/avatar/89.jpeg"
+        },
+        {
+          "name": "Evil Beth Clone",
+          "image": "https://rickandmortyapi.com/api/character/avatar/116.jpeg"
+        },
+        {
+          "name": "Evil Jerry Clone",
+          "image": "https://rickandmortyapi.com/api/character/avatar/117.jpeg"
+        },
+        {
+          "name": "Evil Summer Clone",
+          "image": "https://rickandmortyapi.com/api/character/avatar/120.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg"
+        },
+        {
+          "name": "King Jellybean",
+          "image": "https://rickandmortyapi.com/api/character/avatar/193.jpeg"
+        },
+        {
+          "name": "Mr. Booby Buyer",
+          "image": "https://rickandmortyapi.com/api/character/avatar/238.jpeg"
+        },
+        {
+          "name": "Mr. Meeseeks",
+          "image": "https://rickandmortyapi.com/api/character/avatar/242.jpeg"
+        },
+        {
+          "name": "Principal Vagina",
+          "image": "https://rickandmortyapi.com/api/character/avatar/271.jpeg"
+        },
+        {
+          "name": "Samantha",
+          "image": "https://rickandmortyapi.com/api/character/avatar/303.jpeg"
+        },
+        {
+          "name": "Slippery Stair",
+          "image": "https://rickandmortyapi.com/api/character/avatar/326.jpeg"
+        },
+        {
+          "name": "Stair Goblin",
+          "image": "https://rickandmortyapi.com/api/character/avatar/333.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/338.jpeg"
+        },
+        {
+          "name": "Tammy Guetermann",
+          "image": "https://rickandmortyapi.com/api/character/avatar/343.jpeg"
+        },
+        {
+          "name": "Tiny-persons advocacy group lawyer",
+          "image": "https://rickandmortyapi.com/api/character/avatar/399.jpeg"
+        },
+        {
+          "name": "Giant Judge",
+          "image": "https://rickandmortyapi.com/api/character/avatar/400.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Rick Potion #9",
+      "episode": "S01E06",
+      "air_date": "January 27, 2014",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+        },
+        {
+          "name": "Brad",
+          "image": "https://rickandmortyapi.com/api/character/avatar/58.jpeg"
+        },
+        {
+          "name": "Cronenberg Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/82.jpeg"
+        },
+        {
+          "name": "Cronenberg Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/83.jpeg"
+        },
+        {
+          "name": "Davin",
+          "image": "https://rickandmortyapi.com/api/character/avatar/92.jpeg"
+        },
+        {
+          "name": "Harold",
+          "image": "https://rickandmortyapi.com/api/character/avatar/155.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg"
+        },
+        {
+          "name": "Jessica",
+          "image": "https://rickandmortyapi.com/api/character/avatar/179.jpeg"
+        },
+        {
+          "name": "Jessica's Friend",
+          "image": "https://rickandmortyapi.com/api/character/avatar/181.jpeg"
+        },
+        {
+          "name": "MC Haps",
+          "image": "https://rickandmortyapi.com/api/character/avatar/216.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/234.jpeg"
+        },
+        {
+          "name": "Mr. Goldenfold",
+          "image": "https://rickandmortyapi.com/api/character/avatar/239.jpeg"
+        },
+        {
+          "name": "Mrs. Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/249.jpeg"
+        },
+        {
+          "name": "Nancy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/251.jpeg"
+        },
+        {
+          "name": "Principal Vagina",
+          "image": "https://rickandmortyapi.com/api/character/avatar/271.jpeg"
+        },
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/293.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/338.jpeg"
+        },
+        {
+          "name": "Tammy Guetermann",
+          "image": "https://rickandmortyapi.com/api/character/avatar/343.jpeg"
+        },
+        {
+          "name": "Davin",
+          "image": "https://rickandmortyapi.com/api/character/avatar/394.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Raising Gazorpazorp",
+      "episode": "S01E07",
+      "air_date": "March 10, 2014",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Brad Anderson",
+          "image": "https://rickandmortyapi.com/api/character/avatar/59.jpeg"
+        },
+        {
+          "name": "Gwendolyn",
+          "image": "https://rickandmortyapi.com/api/character/avatar/151.jpeg"
+        },
+        {
+          "name": "Jackie",
+          "image": "https://rickandmortyapi.com/api/character/avatar/168.jpeg"
+        },
+        {
+          "name": "Ma-Sha",
+          "image": "https://rickandmortyapi.com/api/character/avatar/211.jpeg"
+        },
+        {
+          "name": "Morty Jr.",
+          "image": "https://rickandmortyapi.com/api/character/avatar/230.jpeg"
+        },
+        {
+          "name": "Pawnshop Clerk",
+          "image": "https://rickandmortyapi.com/api/character/avatar/258.jpeg"
+        },
+        {
+          "name": "Snuffles (Snowball)",
+          "image": "https://rickandmortyapi.com/api/character/avatar/329.jpeg"
+        },
+        {
+          "name": "Veronica Ann Bennet",
+          "image": "https://rickandmortyapi.com/api/character/avatar/376.jpeg"
+        },
+        {
+          "name": "Morty Jr's interviewer",
+          "image": "https://rickandmortyapi.com/api/character/avatar/401.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Rixty Minutes",
+      "episode": "S01E08",
+      "air_date": "March 17, 2014",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Ants in my Eyes Johnson",
+          "image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+        },
+        {
+          "name": "Attila Starwar",
+          "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg"
+        },
+        {
+          "name": "Baby Legs",
+          "image": "https://rickandmortyapi.com/api/character/avatar/29.jpeg"
+        },
+        {
+          "name": "Benjamin",
+          "image": "https://rickandmortyapi.com/api/character/avatar/34.jpeg"
+        },
+        {
+          "name": "Beth Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/37.jpeg"
+        },
+        {
+          "name": "Bobby Moynihan",
+          "image": "https://rickandmortyapi.com/api/character/avatar/54.jpeg"
+        },
+        {
+          "name": "Cynthia",
+          "image": "https://rickandmortyapi.com/api/character/avatar/88.jpeg"
+        },
+        {
+          "name": "David Letterman",
+          "image": "https://rickandmortyapi.com/api/character/avatar/91.jpeg"
+        },
+        {
+          "name": "Fulgora",
+          "image": "https://rickandmortyapi.com/api/character/avatar/129.jpeg"
+        },
+        {
+          "name": "Garmanarnar",
+          "image": "https://rickandmortyapi.com/api/character/avatar/134.jpeg"
+        },
+        {
+          "name": "Gazorpazorpfield",
+          "image": "https://rickandmortyapi.com/api/character/avatar/136.jpeg"
+        },
+        {
+          "name": "Glenn",
+          "image": "https://rickandmortyapi.com/api/character/avatar/145.jpeg"
+        },
+        {
+          "name": "Hamster In Butt",
+          "image": "https://rickandmortyapi.com/api/character/avatar/153.jpeg"
+        },
+        {
+          "name": "Hole in the Wall Where the Men Can See it All",
+          "image": "https://rickandmortyapi.com/api/character/avatar/157.jpeg"
+        },
+        {
+          "name": "Celebrity Jerry",
+          "image": "https://rickandmortyapi.com/api/character/avatar/176.jpeg"
+        },
+        {
+          "name": "Johnny Depp",
+          "image": "https://rickandmortyapi.com/api/character/avatar/183.jpeg"
+        },
+        {
+          "name": "Jon",
+          "image": "https://rickandmortyapi.com/api/character/avatar/184.jpeg"
+        },
+        {
+          "name": "Kristen Stewart",
+          "image": "https://rickandmortyapi.com/api/character/avatar/195.jpeg"
+        },
+        {
+          "name": "Loggins",
+          "image": "https://rickandmortyapi.com/api/character/avatar/207.jpeg"
+        },
+        {
+          "name": "Man Painted Silver Who Makes Robot Noises",
+          "image": "https://rickandmortyapi.com/api/character/avatar/214.jpeg"
+        },
+        {
+          "name": "Michael Denny and the Denny Singers",
+          "image": "https://rickandmortyapi.com/api/character/avatar/222.jpeg"
+        },
+        {
+          "name": "Mrs. Sullivan",
+          "image": "https://rickandmortyapi.com/api/character/avatar/250.jpeg"
+        },
+        {
+          "name": "Piece of Toast",
+          "image": "https://rickandmortyapi.com/api/character/avatar/266.jpeg"
+        },
+        {
+          "name": "Real Fake Doors Salesman",
+          "image": "https://rickandmortyapi.com/api/character/avatar/277.jpeg"
+        },
+        {
+          "name": "Regular Legs",
+          "image": "https://rickandmortyapi.com/api/character/avatar/279.jpeg"
+        },
+        {
+          "name": "Shmlamantha Shmlicelli",
+          "image": "https://rickandmortyapi.com/api/character/avatar/314.jpeg"
+        },
+        {
+          "name": "Shmlangela Shmlobinson-Shmlower",
+          "image": "https://rickandmortyapi.com/api/character/avatar/315.jpeg"
+        },
+        {
+          "name": "Shmlona Shmlobinson",
+          "image": "https://rickandmortyapi.com/api/character/avatar/316.jpeg"
+        },
+        {
+          "name": "Shmlonathan Shmlower",
+          "image": "https://rickandmortyapi.com/api/character/avatar/317.jpeg"
+        },
+        {
+          "name": "Shmlony Shmlicelli",
+          "image": "https://rickandmortyapi.com/api/character/avatar/318.jpeg"
+        },
+        {
+          "name": "Three Unknown Things",
+          "image": "https://rickandmortyapi.com/api/character/avatar/351.jpeg"
+        },
+        {
+          "name": "Tophat Jones",
+          "image": "https://rickandmortyapi.com/api/character/avatar/358.jpeg"
+        },
+        {
+          "name": "Trunk Man",
+          "image": "https://rickandmortyapi.com/api/character/avatar/367.jpeg"
+        },
+        {
+          "name": "Two Guys with Handlebar Mustaches",
+          "image": "https://rickandmortyapi.com/api/character/avatar/370.jpeg"
+        },
+        {
+          "name": "Unmuscular Michael",
+          "image": "https://rickandmortyapi.com/api/character/avatar/373.jpeg"
+        },
+        {
+          "name": "Guy from The Bachelor",
+          "image": "https://rickandmortyapi.com/api/character/avatar/402.jpeg"
+        },
+        {
+          "name": "Corn detective",
+          "image": "https://rickandmortyapi.com/api/character/avatar/403.jpeg"
+        },
+        {
+          "name": "Michael Jackson",
+          "image": "https://rickandmortyapi.com/api/character/avatar/404.jpeg"
+        },
+        {
+          "name": "Trunkphobic suspenders guy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/405.jpeg"
+        },
+        {
+          "name": "Spiderweb teddy bear",
+          "image": "https://rickandmortyapi.com/api/character/avatar/406.jpeg"
+        },
+        {
+          "name": "Regular Tyrion Lannister",
+          "image": "https://rickandmortyapi.com/api/character/avatar/407.jpeg"
+        },
+        {
+          "name": "Quick Mystery Presenter",
+          "image": "https://rickandmortyapi.com/api/character/avatar/408.jpeg"
+        },
+        {
+          "name": "Mr. Sneezy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/409.jpeg"
+        },
+        {
+          "name": "Two Brothers",
+          "image": "https://rickandmortyapi.com/api/character/avatar/410.jpeg"
+        },
+        {
+          "name": "Alien Mexican Armada",
+          "image": "https://rickandmortyapi.com/api/character/avatar/411.jpeg"
+        },
+        {
+          "name": "Giant Cat Monster",
+          "image": "https://rickandmortyapi.com/api/character/avatar/412.jpeg"
+        },
+        {
+          "name": "Old Women",
+          "image": "https://rickandmortyapi.com/api/character/avatar/413.jpeg"
+        },
+        {
+          "name": "Trunkphobic guy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/414.jpeg"
+        },
+        {
+          "name": "Pro trunk people marriage guy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/415.jpeg"
+        },
+        {
+          "name": "Muscular Mannie",
+          "image": "https://rickandmortyapi.com/api/character/avatar/416.jpeg"
+        },
+        {
+          "name": "Baby Legs Chief",
+          "image": "https://rickandmortyapi.com/api/character/avatar/417.jpeg"
+        },
+        {
+          "name": "Mrs. Sullivan's Boyfriend",
+          "image": "https://rickandmortyapi.com/api/character/avatar/418.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Something Ricked This Way Comes",
+      "episode": "S01E09",
+      "air_date": "March 24, 2014",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Cynthia",
+          "image": "https://rickandmortyapi.com/api/character/avatar/88.jpeg"
+        },
+        {
+          "name": "King Flippy Nips",
+          "image": "https://rickandmortyapi.com/api/character/avatar/192.jpeg"
+        },
+        {
+          "name": "Mr. Goldenfold",
+          "image": "https://rickandmortyapi.com/api/character/avatar/240.jpeg"
+        },
+        {
+          "name": "Mr. Needful",
+          "image": "https://rickandmortyapi.com/api/character/avatar/243.jpeg"
+        },
+        {
+          "name": "Nancy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/251.jpeg"
+        },
+        {
+          "name": "Principal Vagina",
+          "image": "https://rickandmortyapi.com/api/character/avatar/272.jpeg"
+        },
+        {
+          "name": "Scroopy Noopers",
+          "image": "https://rickandmortyapi.com/api/character/avatar/307.jpeg"
+        },
+        {
+          "name": "Plutonian Hostess",
+          "image": "https://rickandmortyapi.com/api/character/avatar/419.jpeg"
+        },
+        {
+          "name": "Plutonian Host",
+          "image": "https://rickandmortyapi.com/api/character/avatar/420.jpeg"
+        },
+        {
+          "name": "Rich Plutonian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/421.jpeg"
+        },
+        {
+          "name": "Rich Plutonian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/422.jpeg"
+        },
+        {
+          "name": "Butter Robot",
+          "image": "https://rickandmortyapi.com/api/character/avatar/826.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Close Rick-counters of the Rick Kind",
+      "episode": "S01E10",
+      "air_date": "April 7, 2014",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Abradolf Lincler",
+          "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+        },
+        {
+          "name": "Alien Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+        },
+        {
+          "name": "Alien Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+        },
+        {
+          "name": "Antenna Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+        },
+        {
+          "name": "Antenna Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+        },
+        {
+          "name": "Aqua Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+        },
+        {
+          "name": "Aqua Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
+        },
+        {
+          "name": "Artist Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/27.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/39.jpeg"
+        },
+        {
+          "name": "Blue Shirt Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/53.jpeg"
+        },
+        {
+          "name": "Cowboy Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/77.jpeg"
+        },
+        {
+          "name": "Cowboy Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/78.jpeg"
+        },
+        {
+          "name": "Crab Spider",
+          "image": "https://rickandmortyapi.com/api/character/avatar/79.jpeg"
+        },
+        {
+          "name": "Cronenberg Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/82.jpeg"
+        },
+        {
+          "name": "Cronenberg Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/83.jpeg"
+        },
+        {
+          "name": "Cult Leader Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/84.jpeg"
+        },
+        {
+          "name": "Cyclops Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/85.jpeg"
+        },
+        {
+          "name": "Cyclops Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/86.jpeg"
+        },
+        {
+          "name": "Doofus Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/103.jpeg"
+        },
+        {
+          "name": "Eric Stoltz Mask Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/113.jpeg"
+        },
+        {
+          "name": "Evil Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/118.jpeg"
+        },
+        {
+          "name": "Evil Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/119.jpeg"
+        },
+        {
+          "name": "Hammerhead Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/152.jpeg"
+        },
+        {
+          "name": "Insurance Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/164.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/177.jpeg"
+        },
+        {
+          "name": "Long Sleeved Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/209.jpeg"
+        },
+        {
+          "name": "Maximums Rickimus",
+          "image": "https://rickandmortyapi.com/api/character/avatar/215.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/232.jpeg"
+        },
+        {
+          "name": "Mr. Meeseeks",
+          "image": "https://rickandmortyapi.com/api/character/avatar/242.jpeg"
+        },
+        {
+          "name": "Quantum Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/274.jpeg"
+        },
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/290.jpeg"
+        },
+        {
+          "name": "Ricktiminus Sancheziminius",
+          "image": "https://rickandmortyapi.com/api/character/avatar/294.jpeg"
+        },
+        {
+          "name": "Riq IV",
+          "image": "https://rickandmortyapi.com/api/character/avatar/295.jpeg"
+        },
+        {
+          "name": "Robot Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/298.jpeg"
+        },
+        {
+          "name": "Robot Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/299.jpeg"
+        },
+        {
+          "name": "Snuffles (Snowball)",
+          "image": "https://rickandmortyapi.com/api/character/avatar/329.jpeg"
+        },
+        {
+          "name": "Solicitor Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/330.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/339.jpeg"
+        },
+        {
+          "name": "The Scientist Formerly Known as Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/349.jpeg"
+        },
+        {
+          "name": "Tortured Morty",
+          "image": "https://rickandmortyapi.com/api/character/avatar/359.jpeg"
+        },
+        {
+          "name": "Woman Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/381.jpeg"
+        },
+        {
+          "name": "Zeta Alpha Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/389.jpeg"
+        },
+        {
+          "name": "Trunkphobic suspenders guy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/405.jpeg"
+        },
+        {
+          "name": "Pizza-person",
+          "image": "https://rickandmortyapi.com/api/character/avatar/424.jpeg"
+        },
+        {
+          "name": "Pizza-person",
+          "image": "https://rickandmortyapi.com/api/character/avatar/425.jpeg"
+        },
+        {
+          "name": "Greasy Grandma",
+          "image": "https://rickandmortyapi.com/api/character/avatar/426.jpeg"
+        },
+        {
+          "name": "Phone-person",
+          "image": "https://rickandmortyapi.com/api/character/avatar/427.jpeg"
+        },
+        {
+          "name": "Phone-person",
+          "image": "https://rickandmortyapi.com/api/character/avatar/428.jpeg"
+        },
+        {
+          "name": "Chair-person",
+          "image": "https://rickandmortyapi.com/api/character/avatar/429.jpeg"
+        },
+        {
+          "name": "Chair-person",
+          "image": "https://rickandmortyapi.com/api/character/avatar/430.jpeg"
+        },
+        {
+          "name": "Chair-homeless",
+          "image": "https://rickandmortyapi.com/api/character/avatar/431.jpeg"
+        },
+        {
+          "name": "Chair-waiter",
+          "image": "https://rickandmortyapi.com/api/character/avatar/432.jpeg"
+        },
+        {
+          "name": "Doopidoo",
+          "image": "https://rickandmortyapi.com/api/character/avatar/433.jpeg"
+        },
+        {
+          "name": "Super Weird Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/434.jpeg"
+        },
+        {
+          "name": "Reggie",
+          "image": "https://rickandmortyapi.com/api/character/avatar/663.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Ricksy Business",
+      "episode": "S01E11",
+      "air_date": "April 14, 2014",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Abradolf Lincler",
+          "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+        },
+        {
+          "name": "Bepisian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg"
+        },
+        {
+          "name": "Birdperson",
+          "image": "https://rickandmortyapi.com/api/character/avatar/47.jpeg"
+        },
+        {
+          "name": "Brad",
+          "image": "https://rickandmortyapi.com/api/character/avatar/58.jpeg"
+        },
+        {
+          "name": "Cynthia",
+          "image": "https://rickandmortyapi.com/api/character/avatar/88.jpeg"
+        },
+        {
+          "name": "Jessica",
+          "image": "https://rickandmortyapi.com/api/character/avatar/180.jpeg"
+        },
+        {
+          "name": "Jessica's Friend",
+          "image": "https://rickandmortyapi.com/api/character/avatar/181.jpeg"
+        },
+        {
+          "name": "Lucy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/210.jpeg"
+        },
+        {
+          "name": "MC Haps",
+          "image": "https://rickandmortyapi.com/api/character/avatar/216.jpeg"
+        },
+        {
+          "name": "Nancy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/251.jpeg"
+        },
+        {
+          "name": "Revolio Clockberg Jr.",
+          "image": "https://rickandmortyapi.com/api/character/avatar/282.jpeg"
+        },
+        {
+          "name": "Riq IV",
+          "image": "https://rickandmortyapi.com/api/character/avatar/295.jpeg"
+        },
+        {
+          "name": "Scropon",
+          "image": "https://rickandmortyapi.com/api/character/avatar/308.jpeg"
+        },
+        {
+          "name": "Slippery Stair",
+          "image": "https://rickandmortyapi.com/api/character/avatar/326.jpeg"
+        },
+        {
+          "name": "Slow Mobius",
+          "image": "https://rickandmortyapi.com/api/character/avatar/327.jpeg"
+        },
+        {
+          "name": "Squanchy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/331.jpeg"
+        },
+        {
+          "name": "Stair Goblin",
+          "image": "https://rickandmortyapi.com/api/character/avatar/333.jpeg"
+        },
+        {
+          "name": "Tammy Guetermann",
+          "image": "https://rickandmortyapi.com/api/character/avatar/344.jpeg"
+        },
+        {
+          "name": "Traflorkian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/362.jpeg"
+        },
+        {
+          "name": "Zeta Alpha Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/389.jpeg"
+        },
+        {
+          "name": "Greebybobe",
+          "image": "https://rickandmortyapi.com/api/character/avatar/395.jpeg"
+        },
+        {
+          "name": "Trunkphobic suspenders guy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/405.jpeg"
+        },
+        {
+          "name": "Synthetic Laser Eels",
+          "image": "https://rickandmortyapi.com/api/character/avatar/423.jpeg"
+        },
+        {
+          "name": "Pripudlian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/435.jpeg"
+        },
+        {
+          "name": "Giant Testicle Monster",
+          "image": "https://rickandmortyapi.com/api/character/avatar/436.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "A Rickle in Time",
+      "episode": "S02E01",
+      "air_date": "July 26, 2015",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Albert Einstein",
+          "image": "https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+        },
+        {
+          "name": "Chris",
+          "image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg"
+        },
+        {
+          "name": "Mr. Benson",
+          "image": "https://rickandmortyapi.com/api/character/avatar/237.jpeg"
+        },
+        {
+          "name": "Shleemypants",
+          "image": "https://rickandmortyapi.com/api/character/avatar/313.jpeg"
+        },
+        {
+          "name": "Michael",
+          "image": "https://rickandmortyapi.com/api/character/avatar/437.jpeg"
+        },
+        {
+          "name": "Michael's Lawyer",
+          "image": "https://rickandmortyapi.com/api/character/avatar/438.jpeg"
+        },
+        {
+          "name": "Veterinary",
+          "image": "https://rickandmortyapi.com/api/character/avatar/439.jpeg"
+        },
+        {
+          "name": "Veterinary Nurse",
+          "image": "https://rickandmortyapi.com/api/character/avatar/440.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Mortynight Run",
+      "episode": "S02E02",
+      "air_date": "August 2, 2015",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Arcade Alien",
+          "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg"
+        },
+        {
+          "name": "Attila Starwar",
+          "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg"
+        },
+        {
+          "name": "Benjamin",
+          "image": "https://rickandmortyapi.com/api/character/avatar/34.jpeg"
+        },
+        {
+          "name": "Dr. Schmidt",
+          "image": "https://rickandmortyapi.com/api/character/avatar/106.jpeg"
+        },
+        {
+          "name": "Fart",
+          "image": "https://rickandmortyapi.com/api/character/avatar/122.jpeg"
+        },
+        {
+          "name": "Fulgora",
+          "image": "https://rickandmortyapi.com/api/character/avatar/129.jpeg"
+        },
+        {
+          "name": "Gar Gloonch",
+          "image": "https://rickandmortyapi.com/api/character/avatar/131.jpeg"
+        },
+        {
+          "name": "Garblovian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/133.jpeg"
+        },
+        {
+          "name": "Gazorpazorpfield",
+          "image": "https://rickandmortyapi.com/api/character/avatar/136.jpeg"
+        },
+        {
+          "name": "Jerry 5-126",
+          "image": "https://rickandmortyapi.com/api/character/avatar/174.jpeg"
+        },
+        {
+          "name": "Jessica",
+          "image": "https://rickandmortyapi.com/api/character/avatar/180.jpeg"
+        },
+        {
+          "name": "Krombopulos Michael",
+          "image": "https://rickandmortyapi.com/api/character/avatar/196.jpeg"
+        },
+        {
+          "name": "Loggins",
+          "image": "https://rickandmortyapi.com/api/character/avatar/207.jpeg"
+        },
+        {
+          "name": "Mr. Meeseeks",
+          "image": "https://rickandmortyapi.com/api/character/avatar/242.jpeg"
+        },
+        {
+          "name": "Paul Fleishman",
+          "image": "https://rickandmortyapi.com/api/character/avatar/257.jpeg"
+        },
+        {
+          "name": "Revolio Clockberg Jr.",
+          "image": "https://rickandmortyapi.com/api/character/avatar/282.jpeg"
+        },
+        {
+          "name": "Scrotian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/309.jpeg"
+        },
+        {
+          "name": "Shimshamian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/311.jpeg"
+        },
+        {
+          "name": "Traflorkian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/362.jpeg"
+        },
+        {
+          "name": "Zarbadar Gloonch",
+          "image": "https://rickandmortyapi.com/api/character/avatar/386.jpeg"
+        },
+        {
+          "name": "Roy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/393.jpeg"
+        },
+        {
+          "name": "Giant Testicle Monster",
+          "image": "https://rickandmortyapi.com/api/character/avatar/436.jpeg"
+        },
+        {
+          "name": "Bearded Jerry",
+          "image": "https://rickandmortyapi.com/api/character/avatar/441.jpeg"
+        },
+        {
+          "name": "Shaved Head Jerry",
+          "image": "https://rickandmortyapi.com/api/character/avatar/442.jpeg"
+        },
+        {
+          "name": "Tank Top Jerry",
+          "image": "https://rickandmortyapi.com/api/character/avatar/443.jpeg"
+        },
+        {
+          "name": "Pink Polo Shirt Jerry",
+          "image": "https://rickandmortyapi.com/api/character/avatar/444.jpeg"
+        },
+        {
+          "name": "Jerryboree Keeper",
+          "image": "https://rickandmortyapi.com/api/character/avatar/445.jpeg"
+        },
+        {
+          "name": "Jerryboree Receptionist",
+          "image": "https://rickandmortyapi.com/api/character/avatar/446.jpeg"
+        },
+        {
+          "name": "Anchor Gear",
+          "image": "https://rickandmortyapi.com/api/character/avatar/447.jpeg"
+        },
+        {
+          "name": "Gear Cop",
+          "image": "https://rickandmortyapi.com/api/character/avatar/448.jpeg"
+        },
+        {
+          "name": "Roy's Mum",
+          "image": "https://rickandmortyapi.com/api/character/avatar/449.jpeg"
+        },
+        {
+          "name": "Roy's Wife",
+          "image": "https://rickandmortyapi.com/api/character/avatar/450.jpeg"
+        },
+        {
+          "name": "Roy's Son",
+          "image": "https://rickandmortyapi.com/api/character/avatar/451.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Auto Erotic Assimilation",
+      "episode": "S02E03",
+      "air_date": "August 9, 2015",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Beta-Seven",
+          "image": "https://rickandmortyapi.com/api/character/avatar/36.jpeg"
+        },
+        {
+          "name": "Blim Blam",
+          "image": "https://rickandmortyapi.com/api/character/avatar/50.jpeg"
+        },
+        {
+          "name": "Daron Jefferson",
+          "image": "https://rickandmortyapi.com/api/character/avatar/90.jpeg"
+        },
+        {
+          "name": "Karen Entity",
+          "image": "https://rickandmortyapi.com/api/character/avatar/188.jpeg"
+        },
+        {
+          "name": "Mrs. Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/249.jpeg"
+        },
+        {
+          "name": "Ron Benson",
+          "image": "https://rickandmortyapi.com/api/character/avatar/301.jpeg"
+        },
+        {
+          "name": "Steven Phillips",
+          "image": "https://rickandmortyapi.com/api/character/avatar/336.jpeg"
+        },
+        {
+          "name": "Todd Crystal",
+          "image": "https://rickandmortyapi.com/api/character/avatar/355.jpeg"
+        },
+        {
+          "name": "Unity",
+          "image": "https://rickandmortyapi.com/api/character/avatar/372.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Total Rickall",
+      "episode": "S02E04",
+      "air_date": "August 16, 2015",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Amish Cyborg",
+          "image": "https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+        },
+        {
+          "name": "Baby Wizard",
+          "image": "https://rickandmortyapi.com/api/character/avatar/31.jpeg"
+        },
+        {
+          "name": "Bearded Lady",
+          "image": "https://rickandmortyapi.com/api/character/avatar/32.jpeg"
+        },
+        {
+          "name": "Cousin Nicky",
+          "image": "https://rickandmortyapi.com/api/character/avatar/76.jpeg"
+        },
+        {
+          "name": "Duck With Muscles",
+          "image": "https://rickandmortyapi.com/api/character/avatar/109.jpeg"
+        },
+        {
+          "name": "Frankenstein's Monster",
+          "image": "https://rickandmortyapi.com/api/character/avatar/128.jpeg"
+        },
+        {
+          "name": "Ghost in a Jar",
+          "image": "https://rickandmortyapi.com/api/character/avatar/141.jpeg"
+        },
+        {
+          "name": "Hamurai",
+          "image": "https://rickandmortyapi.com/api/character/avatar/154.jpeg"
+        },
+        {
+          "name": "Jacob",
+          "image": "https://rickandmortyapi.com/api/character/avatar/169.jpeg"
+        },
+        {
+          "name": "Mr. Beauregard",
+          "image": "https://rickandmortyapi.com/api/character/avatar/236.jpeg"
+        },
+        {
+          "name": "Mr. Poopybutthole",
+          "image": "https://rickandmortyapi.com/api/character/avatar/244.jpeg"
+        },
+        {
+          "name": "Mrs. Refrigerator",
+          "image": "https://rickandmortyapi.com/api/character/avatar/248.jpeg"
+        },
+        {
+          "name": "Pencilvester",
+          "image": "https://rickandmortyapi.com/api/character/avatar/259.jpeg"
+        },
+        {
+          "name": "Photography Raptor",
+          "image": "https://rickandmortyapi.com/api/character/avatar/262.jpeg"
+        },
+        {
+          "name": "Reverse Giraffe",
+          "image": "https://rickandmortyapi.com/api/character/avatar/280.jpeg"
+        },
+        {
+          "name": "Sleepy Gary",
+          "image": "https://rickandmortyapi.com/api/character/avatar/324.jpeg"
+        },
+        {
+          "name": "Snuffles (Snowball)",
+          "image": "https://rickandmortyapi.com/api/character/avatar/329.jpeg"
+        },
+        {
+          "name": "Tinkles",
+          "image": "https://rickandmortyapi.com/api/character/avatar/352.jpeg"
+        },
+        {
+          "name": "Uncle Steve",
+          "image": "https://rickandmortyapi.com/api/character/avatar/391.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Get Schwifty",
+      "episode": "S02E05",
+      "air_date": "August 23, 2015",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Armagheadon",
+          "image": "https://rickandmortyapi.com/api/character/avatar/24.jpeg"
+        },
+        {
+          "name": "Birdperson",
+          "image": "https://rickandmortyapi.com/api/character/avatar/47.jpeg"
+        },
+        {
+          "name": "Ethan",
+          "image": "https://rickandmortyapi.com/api/character/avatar/115.jpeg"
+        },
+        {
+          "name": "Father Bob",
+          "image": "https://rickandmortyapi.com/api/character/avatar/124.jpeg"
+        },
+        {
+          "name": "General Nathan",
+          "image": "https://rickandmortyapi.com/api/character/avatar/138.jpeg"
+        },
+        {
+          "name": "Hydrogen-F",
+          "image": "https://rickandmortyapi.com/api/character/avatar/161.jpeg"
+        },
+        {
+          "name": "Ice-T",
+          "image": "https://rickandmortyapi.com/api/character/avatar/162.jpeg"
+        },
+        {
+          "name": "Jamey",
+          "image": "https://rickandmortyapi.com/api/character/avatar/172.jpeg"
+        },
+        {
+          "name": "Jim",
+          "image": "https://rickandmortyapi.com/api/character/avatar/182.jpeg"
+        },
+        {
+          "name": "Larva Alien",
+          "image": "https://rickandmortyapi.com/api/character/avatar/199.jpeg"
+        },
+        {
+          "name": "Magma-Q",
+          "image": "https://rickandmortyapi.com/api/character/avatar/212.jpeg"
+        },
+        {
+          "name": "Magnesium-J",
+          "image": "https://rickandmortyapi.com/api/character/avatar/213.jpeg"
+        },
+        {
+          "name": "Mr. Goldenfold",
+          "image": "https://rickandmortyapi.com/api/character/avatar/240.jpeg"
+        },
+        {
+          "name": "Mr. Marklovitz",
+          "image": "https://rickandmortyapi.com/api/character/avatar/241.jpeg"
+        },
+        {
+          "name": "Numbericon",
+          "image": "https://rickandmortyapi.com/api/character/avatar/253.jpeg"
+        },
+        {
+          "name": "Orthodox Jew",
+          "image": "https://rickandmortyapi.com/api/character/avatar/255.jpeg"
+        },
+        {
+          "name": "Principal Vagina",
+          "image": "https://rickandmortyapi.com/api/character/avatar/272.jpeg"
+        },
+        {
+          "name": "Scrotian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/309.jpeg"
+        },
+        {
+          "name": "Snuffles (Snowball)",
+          "image": "https://rickandmortyapi.com/api/character/avatar/329.jpeg"
+        },
+        {
+          "name": "Squanchy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/331.jpeg"
+        },
+        {
+          "name": "Tammy Guetermann",
+          "image": "https://rickandmortyapi.com/api/character/avatar/344.jpeg"
+        },
+        {
+          "name": "Terry",
+          "image": "https://rickandmortyapi.com/api/character/avatar/346.jpeg"
+        },
+        {
+          "name": "President Curtis",
+          "image": "https://rickandmortyapi.com/api/character/avatar/347.jpeg"
+        },
+        {
+          "name": "Greebybobe",
+          "image": "https://rickandmortyapi.com/api/character/avatar/395.jpeg"
+        },
+        {
+          "name": "Simon",
+          "image": "https://rickandmortyapi.com/api/character/avatar/452.jpeg"
+        },
+        {
+          "name": "Arbolian Mentirososian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/454.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "The Ricks Must Be Crazy",
+      "episode": "S02E06",
+      "air_date": "August 30, 2015",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Attila Starwar",
+          "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg"
+        },
+        {
+          "name": "Benjamin",
+          "image": "https://rickandmortyapi.com/api/character/avatar/34.jpeg"
+        },
+        {
+          "name": "Chris",
+          "image": "https://rickandmortyapi.com/api/character/avatar/65.jpeg"
+        },
+        {
+          "name": "Fulgora",
+          "image": "https://rickandmortyapi.com/api/character/avatar/129.jpeg"
+        },
+        {
+          "name": "Hunter",
+          "image": "https://rickandmortyapi.com/api/character/avatar/159.jpeg"
+        },
+        {
+          "name": "Hunter's Father",
+          "image": "https://rickandmortyapi.com/api/character/avatar/160.jpeg"
+        },
+        {
+          "name": "Jessica",
+          "image": "https://rickandmortyapi.com/api/character/avatar/180.jpeg"
+        },
+        {
+          "name": "Jessica's Friend",
+          "image": "https://rickandmortyapi.com/api/character/avatar/181.jpeg"
+        },
+        {
+          "name": "Kyle",
+          "image": "https://rickandmortyapi.com/api/character/avatar/197.jpeg"
+        },
+        {
+          "name": "Loggins",
+          "image": "https://rickandmortyapi.com/api/character/avatar/207.jpeg"
+        },
+        {
+          "name": "Mr. Goldenfold",
+          "image": "https://rickandmortyapi.com/api/character/avatar/240.jpeg"
+        },
+        {
+          "name": "Piece of Toast",
+          "image": "https://rickandmortyapi.com/api/character/avatar/266.jpeg"
+        },
+        {
+          "name": "The President of the Miniverse",
+          "image": "https://rickandmortyapi.com/api/character/avatar/348.jpeg"
+        },
+        {
+          "name": "Tree Person",
+          "image": "https://rickandmortyapi.com/api/character/avatar/364.jpeg"
+        },
+        {
+          "name": "Zeep Xanflorp",
+          "image": "https://rickandmortyapi.com/api/character/avatar/388.jpeg"
+        },
+        {
+          "name": "Space Cruiser",
+          "image": "https://rickandmortyapi.com/api/character/avatar/753.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Big Trouble in Little Sanchez",
+      "episode": "S02E07",
+      "air_date": "September 13, 2015",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Beth's Mytholog",
+          "image": "https://rickandmortyapi.com/api/character/avatar/40.jpeg"
+        },
+        {
+          "name": "Boobloosian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/55.jpeg"
+        },
+        {
+          "name": "Coach Feratu (Balik Alistane)",
+          "image": "https://rickandmortyapi.com/api/character/avatar/66.jpeg"
+        },
+        {
+          "name": "Gar Gloonch",
+          "image": "https://rickandmortyapi.com/api/character/avatar/131.jpeg"
+        },
+        {
+          "name": "Gar's Mytholog",
+          "image": "https://rickandmortyapi.com/api/character/avatar/132.jpeg"
+        },
+        {
+          "name": "Glexo Slim Slom",
+          "image": "https://rickandmortyapi.com/api/character/avatar/146.jpeg"
+        },
+        {
+          "name": "Goddess Beth",
+          "image": "https://rickandmortyapi.com/api/character/avatar/148.jpeg"
+        },
+        {
+          "name": "Ideal Jerry",
+          "image": "https://rickandmortyapi.com/api/character/avatar/163.jpeg"
+        },
+        {
+          "name": "Jerry's Mytholog",
+          "image": "https://rickandmortyapi.com/api/character/avatar/178.jpeg"
+        },
+        {
+          "name": "Jessica",
+          "image": "https://rickandmortyapi.com/api/character/avatar/180.jpeg"
+        },
+        {
+          "name": "Jessica's Friend",
+          "image": "https://rickandmortyapi.com/api/character/avatar/181.jpeg"
+        },
+        {
+          "name": "Mr. Goldenfold",
+          "image": "https://rickandmortyapi.com/api/character/avatar/240.jpeg"
+        },
+        {
+          "name": "Principal Vagina",
+          "image": "https://rickandmortyapi.com/api/character/avatar/272.jpeg"
+        },
+        {
+          "name": "Self-Congratulatory Jerry",
+          "image": "https://rickandmortyapi.com/api/character/avatar/310.jpeg"
+        },
+        {
+          "name": "Tiny Rick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/353.jpeg"
+        },
+        {
+          "name": "Toby Matthews",
+          "image": "https://rickandmortyapi.com/api/character/avatar/354.jpeg"
+        },
+        {
+          "name": "Tophat Jones",
+          "image": "https://rickandmortyapi.com/api/character/avatar/358.jpeg"
+        },
+        {
+          "name": "Vampire Master",
+          "image": "https://rickandmortyapi.com/api/character/avatar/374.jpeg"
+        },
+        {
+          "name": "Zarbadar Gloonch",
+          "image": "https://rickandmortyapi.com/api/character/avatar/386.jpeg"
+        },
+        {
+          "name": "Zarbadar's Mytholog",
+          "image": "https://rickandmortyapi.com/api/character/avatar/387.jpeg"
+        },
+        {
+          "name": "Vampire Master's Assistant",
+          "image": "https://rickandmortyapi.com/api/character/avatar/453.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "episode": "S02E08",
+      "air_date": "September 20, 2015",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Arcade Alien",
+          "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg"
+        },
+        {
+          "name": "Bepisian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg"
+        },
+        {
+          "name": "Blamph",
+          "image": "https://rickandmortyapi.com/api/character/avatar/49.jpeg"
+        },
+        {
+          "name": "Blue Diplomat",
+          "image": "https://rickandmortyapi.com/api/character/avatar/51.jpeg"
+        },
+        {
+          "name": "Dr. Glip-Glop",
+          "image": "https://rickandmortyapi.com/api/character/avatar/105.jpeg"
+        },
+        {
+          "name": "Eyehole Man",
+          "image": "https://rickandmortyapi.com/api/character/avatar/121.jpeg"
+        },
+        {
+          "name": "Fleeb",
+          "image": "https://rickandmortyapi.com/api/character/avatar/126.jpeg"
+        },
+        {
+          "name": "Garblovian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/133.jpeg"
+        },
+        {
+          "name": "Hamster In Butt",
+          "image": "https://rickandmortyapi.com/api/character/avatar/153.jpeg"
+        },
+        {
+          "name": "Jan-Michael Vincent",
+          "image": "https://rickandmortyapi.com/api/character/avatar/173.jpeg"
+        },
+        {
+          "name": "Larva Alien",
+          "image": "https://rickandmortyapi.com/api/character/avatar/199.jpeg"
+        },
+        {
+          "name": "Little Dipper",
+          "image": "https://rickandmortyapi.com/api/character/avatar/205.jpeg"
+        },
+        {
+          "name": "Michael Jenkins",
+          "image": "https://rickandmortyapi.com/api/character/avatar/223.jpeg"
+        },
+        {
+          "name": "Michael McLick",
+          "image": "https://rickandmortyapi.com/api/character/avatar/224.jpeg"
+        },
+        {
+          "name": "Michael Thompson",
+          "image": "https://rickandmortyapi.com/api/character/avatar/225.jpeg"
+        },
+        {
+          "name": "Octopus Man",
+          "image": "https://rickandmortyapi.com/api/character/avatar/254.jpeg"
+        },
+        {
+          "name": "Phillip Jacobs",
+          "image": "https://rickandmortyapi.com/api/character/avatar/260.jpeg"
+        },
+        {
+          "name": "Pibbles Bodyguard",
+          "image": "https://rickandmortyapi.com/api/character/avatar/263.jpeg"
+        },
+        {
+          "name": "Pichael Thompson",
+          "image": "https://rickandmortyapi.com/api/character/avatar/264.jpeg"
+        },
+        {
+          "name": "Randy Dicknose",
+          "image": "https://rickandmortyapi.com/api/character/avatar/275.jpeg"
+        },
+        {
+          "name": "Shlaammi",
+          "image": "https://rickandmortyapi.com/api/character/avatar/312.jpeg"
+        },
+        {
+          "name": "Shrimply Pibbles",
+          "image": "https://rickandmortyapi.com/api/character/avatar/321.jpeg"
+        },
+        {
+          "name": "Stealy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/334.jpeg"
+        },
+        {
+          "name": "Traflorkian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/362.jpeg"
+        },
+        {
+          "name": "Tumblorkian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/371.jpeg"
+        },
+        {
+          "name": "Yaarb",
+          "image": "https://rickandmortyapi.com/api/character/avatar/383.jpeg"
+        },
+        {
+          "name": "Yellow Headed Doctor",
+          "image": "https://rickandmortyapi.com/api/character/avatar/384.jpeg"
+        },
+        {
+          "name": "Pripudlian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/435.jpeg"
+        },
+        {
+          "name": "Arbolian Mentirososian",
+          "image": "https://rickandmortyapi.com/api/character/avatar/454.jpeg"
+        },
+        {
+          "name": "St. Gloopy Noops Nurse",
+          "image": "https://rickandmortyapi.com/api/character/avatar/455.jpeg"
+        },
+        {
+          "name": "Nano Doctor",
+          "image": "https://rickandmortyapi.com/api/character/avatar/456.jpeg"
+        },
+        {
+          "name": "Funny Songs Presenter",
+          "image": "https://rickandmortyapi.com/api/character/avatar/457.jpeg"
+        },
+        {
+          "name": "Tax Attorney",
+          "image": "https://rickandmortyapi.com/api/character/avatar/458.jpeg"
+        },
+        {
+          "name": "Butthole Ice Cream Guy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/459.jpeg"
+        },
+        {
+          "name": "Traflorkian Journalist",
+          "image": "https://rickandmortyapi.com/api/character/avatar/460.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Look Who's Purging Now",
+      "episode": "S02E09",
+      "air_date": "September 27, 2015",
+      "characters": [
+        {
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        },
+        {
+          "name": "Arthricia",
+          "image": "https://rickandmortyapi.com/api/character/avatar/26.jpeg"
+        },
+        {
+          "name": "General Store Owner",
+          "image": "https://rickandmortyapi.com/api/character/avatar/139.jpeg"
+        },
+        {
+          "name": "Lighthouse Keeper",
+          "image": "https://rickandmortyapi.com/api/character/avatar/202.jpeg"
+        },
+        {
+          "name": "Purge Planet Ruler",
+          "image": "https://rickandmortyapi.com/api/character/avatar/273.jpeg"
+        },
+        {
+          "name": "Taddy Mason",
+          "image": "https://rickandmortyapi.com/api/character/avatar/341.jpeg"
+        }
+      ]
+    }
+  ]
+}
