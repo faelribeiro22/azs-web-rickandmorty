@@ -8,13 +8,13 @@ export default {
 
 export const Basic: Story = (args) => (
   <Header
-    search={function (search: string): void {
+    search={function (): void {
       throw new Error('Function not implemented.')
     }}
     clear={function (): void {
       throw new Error('Function not implemented.')
     }}
-    getFavoritesEpisodes={function (episodes: number[]): void {
+    getFavoritesEpisodes={function (): void {
       throw new Error('Function not implemented.')
     }}
     {...args}

@@ -1,4 +1,3 @@
-import Main from 'components/Main'
 import Episodes from 'template/Episodes'
 import GET_EPISODES from 'graphql/queries/getRickAndMorry'
 import GET_EPISODES_PAGE from 'graphql/queries/getEpisodesPage'
@@ -14,8 +13,8 @@ import GET_EPISODES_BY_ID from 'graphql/queries/getEpisodeById'
 const emptyPaginate = () => ({
   next: 0,
   prev: 0,
-  sendNextPage: () => {},
-  sendPrevPage: () => {}
+  sendNextPage: () => null,
+  sendPrevPage: () => null
 })
 
 export default function Home({ episodes, info }: EpisodesApiProps) {

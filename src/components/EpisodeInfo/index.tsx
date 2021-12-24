@@ -1,6 +1,3 @@
-import { CharacterCardProps } from 'components/CharacterCard'
-import Link from 'next/link'
-
 import * as S from './styles'
 
 export type EpisodeInfoProps = {

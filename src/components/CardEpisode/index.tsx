@@ -1,6 +1,6 @@
 import * as S from './styles'
 import { Favorite, Eye } from '../Icons'
-import { useEffect, useState } from 'react'
+import { useCallback, useEffect, useState } from 'react'
 import Link from 'next/link'
 
 export type Character = {
@@ -59,24 +59,25 @@ const CardEpisode = ({
     localStorage.setItem('watched', JSON.stringify(watched))
   }
 
-  const isWatched = () => {
+  const isWatched = useCallback(() => {
     const watched = localStorage.getItem('watched')
       ? JSON.parse(localStorage.getItem('watched') || '')
       : []
     setWatched(watched.includes(id))
-  }
+    return watched.includes(id)
+  }, [id])
 
-  const isFavorite = () => {
+  const isFavorite = useCallback(() => {
     const favorites = localStorage.getItem('favorites')
       ? JSON.parse(localStorage.getItem('favorites') || '')
       : []
     setFavorited(favorites.includes(id))
-  }
+  }, [id])
 
   useEffect(() => {
     isFavorite()
     isWatched()
-  }, [])
+  }, [isFavorite, isWatched])
 
   return (
     <S.Wrapper>

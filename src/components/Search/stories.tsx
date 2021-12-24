@@ -8,7 +8,7 @@ export default {
 
 export const Basic: Story = (args) => (
   <Search
-    sendSearch={function (search: string): void {
+    sendSearch={function (): void {
       throw new Error('Function not implemented.')
     }}
     {...args}
