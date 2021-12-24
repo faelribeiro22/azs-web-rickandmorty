@@ -6,4 +6,6 @@ export default {
   component: EpisodeInfo
 } as Meta
 
-export const Basic: Story = (args) => <EpisodeInfo {...args} />
+export const Basic: Story = (args) => (
+  <EpisodeInfo episode={0} name={''} air_date={''} {...args} />
+)

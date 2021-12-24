@@ -7,7 +7,9 @@ export default {
   component: ListEpisodes
 } as Meta
 
-export const Basic: Story = (args) => <ListEpisodes {...args} />
+export const Basic: Story = (args) => (
+  <ListEpisodes episodes={[]} loading={false} {...args} />
+)
 
 Basic.args = {
   episodes: results.results,

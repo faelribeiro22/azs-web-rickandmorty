@@ -6,7 +6,9 @@ export default {
   component: CharacterCard
 } as Meta
 
-export const Basic: Story = (args) => <CharacterCard {...args} />
+export const Basic: Story = (args) => (
+  <CharacterCard name={''} image={''} status={''} species={''} {...args} />
+)
 
 Basic.args = {
   name: 'Rick Sanchez',

@@ -6,7 +6,14 @@ export default {
   component: Search
 } as Meta
 
-export const Basic: Story = (args) => <Search {...args} />
+export const Basic: Story = (args) => (
+  <Search
+    sendSearch={function (search: string): void {
+      throw new Error('Function not implemented.')
+    }}
+    {...args}
+  />
+)
 
 Basic.args = {
   sendSearch: (search: string) => console.log(search)

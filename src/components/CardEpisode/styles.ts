@@ -23,4 +23,5 @@ export const TextSpace = styled.div`
   overflow: hidden;
   font-size: 1.5rem;
   font-weight: bold;
+  cursor: pointer;
 `
