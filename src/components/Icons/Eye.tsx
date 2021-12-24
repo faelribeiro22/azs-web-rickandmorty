@@ -4,10 +4,11 @@ export type EyeProps = {
   color: string
   size: string
   title: string
+  click: () => void
 }
 
-const Eye = ({ color, size, title }: EyeProps) => (
-  <S.Wrapper title={title}>
+const Eye = ({ color, size, title, click }: EyeProps) => (
+  <S.Wrapper title={title} onClick={click}>
     <svg
       width={size}
       height={size}

@@ -7,11 +7,18 @@ export const Wrapper = styled.div`
   padding: 0.7rem;
   background: #f9f9f9;
   border-radius: 1rem;
+  margin: 1rem;
 `
 export const Image = styled.img`
   width: 14rem;
 `
 
 export const DetailsCharacter = styled.div``
+
+export const TextSpace = styled.div`
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+`
 
 export const TextLabel = styled.b``

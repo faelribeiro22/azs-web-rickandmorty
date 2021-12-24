@@ -46,11 +46,9 @@ export default function Home({ episodes, info }: EpisodesApiProps) {
 
   const getFavoritesEpisodes = async (episodesFavorites: Array<number>) => {
     setLoading(true)
-    console.log('desgraçaaaaaa', episodesFavorites)
     const { episodesByIds } = await client.request(GET_EPISODES_BY_ID, {
       ids: episodesFavorites
     })
-    console.log('episodesssss', episodesByIds)
     setEpisodesList(episodesByIds)
     setInfoPagination({})
     setLoading(false)

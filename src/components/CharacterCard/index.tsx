@@ -1,6 +1,7 @@
 import * as S from './styles'
 
 export type CharacterCardProps = {
+  id?: number
   name: string
   image: string
   status: string
@@ -16,15 +17,18 @@ const CharacterCard = ({
   <S.Wrapper>
     <S.Image src={image} alt={name} />
     <S.DetailsCharacter>
-      <S.TextLabel>Nome: </S.TextLabel>
-      {name}
-      <br />
-      <S.TextLabel>Espécie: </S.TextLabel>
-      {species}
-      <br />
-      <S.TextLabel>Status: </S.TextLabel>
-      {status}
-      <br />
+      <S.TextSpace title={name}>
+        <S.TextLabel>Nome: </S.TextLabel>
+        {name}
+      </S.TextSpace>
+      <S.TextSpace title={species}>
+        <S.TextLabel>Espécie: </S.TextLabel>
+        {species}
+      </S.TextSpace>
+      <S.TextSpace>
+        <S.TextLabel>Status: </S.TextLabel>
+        {status}
+      </S.TextSpace>
     </S.DetailsCharacter>
   </S.Wrapper>
 )

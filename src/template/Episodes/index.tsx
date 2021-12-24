@@ -26,18 +26,21 @@ const Episodes = ({
   <S.Wrapper>
     <S.Logo src="/img/rick-and-morty-logo.png" alt="Logo" />
     <Header
+      clear={() => nextPage(1)}
       search={(name) => search(name)}
       getFavoritesEpisodes={(episodesFavorites: Array<number>) =>
         getFavoritesEpisodes(episodesFavorites)
       }
     />
     <ListEpisodes episodes={episodes} loading={loading} />
-    <Pagination
-      next={info.next}
-      prev={info.prev}
-      sendNextPage={(next: number) => nextPage(next)}
-      sendPrevPage={(prev: number) => prevPage(prev)}
-    />
+    {!loading && (
+      <Pagination
+        next={info.next}
+        prev={info.prev}
+        sendNextPage={(next: number) => nextPage(next)}
+        sendPrevPage={(prev: number) => prevPage(prev)}
+      />
+    )}
   </S.Wrapper>
 )
 

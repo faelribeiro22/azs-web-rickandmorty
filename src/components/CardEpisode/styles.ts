@@ -16,3 +16,11 @@ export const ActionItems = styled.div`
   align-items: center;
   padding-top: 2rem;
 `
+
+export const TextSpace = styled.div`
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 1.5rem;
+  font-weight: bold;
+`

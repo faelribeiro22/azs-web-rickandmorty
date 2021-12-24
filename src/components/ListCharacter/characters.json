@@ -1,0 +1,137 @@
+{
+  "characters": [
+    {
+      "id": "1",
+      "name": "Rick Sanchez",
+      "status": "Alive",
+      "species": "Human",
+      "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "Morty Smith",
+      "status": "Alive",
+      "species": "Human",
+      "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+    },
+    {
+      "id": "35",
+      "name": "Bepisian",
+      "status": "Alive",
+      "species": "Alien",
+      "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg"
+    },
+    {
+      "id": "38",
+      "name": "Beth Smith",
+      "status": "Alive",
+      "species": "Human",
+      "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+    },
+    {
+      "id": "62",
+      "name": "Canklanker Thom",
+      "status": "Dead",
+      "species": "Alien",
+      "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+    },
+    {
+      "id": "92",
+      "name": "Davin",
+      "status": "Dead",
+      "species": "Human",
+      "image": "https://rickandmortyapi.com/api/character/avatar/92.jpeg"
+    },
+    {
+      "id": "127",
+      "name": "Frank Palicky",
+      "status": "Dead",
+      "species": "Human",
+      "image": "https://rickandmortyapi.com/api/character/avatar/127.jpeg"
+    },
+    {
+      "id": "144",
+      "name": "Glenn",
+      "status": "Dead",
+      "species": "Alien",
+      "image": "https://rickandmortyapi.com/api/character/avatar/144.jpeg"
+    },
+    {
+      "id": "158",
+      "name": "Hookah Alien",
+      "status": "Alive",
+      "species": "Alien",
+      "image": "https://rickandmortyapi.com/api/character/avatar/158.jpeg"
+    },
+    {
+      "id": "175",
+      "name": "Jerry Smith",
+      "status": "Alive",
+      "species": "Human",
+      "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg"
+    },
+    {
+      "id": "179",
+      "name": "Jessica",
+      "status": "Alive",
+      "species": "Cronenberg",
+      "image": "https://rickandmortyapi.com/api/character/avatar/179.jpeg"
+    },
+    {
+      "id": "181",
+      "name": "Jessica's Friend",
+      "status": "Alive",
+      "species": "Human",
+      "image": "https://rickandmortyapi.com/api/character/avatar/181.jpeg"
+    },
+    {
+      "id": "239",
+      "name": "Mr. Goldenfold",
+      "status": "Alive",
+      "species": "Cronenberg",
+      "image": "https://rickandmortyapi.com/api/character/avatar/239.jpeg"
+    },
+    {
+      "id": "249",
+      "name": "Mrs. Sanchez",
+      "status": "unknown",
+      "species": "Human",
+      "image": "https://rickandmortyapi.com/api/character/avatar/249.jpeg"
+    },
+    {
+      "id": "271",
+      "name": "Principal Vagina",
+      "status": "Alive",
+      "species": "Cronenberg",
+      "image": "https://rickandmortyapi.com/api/character/avatar/271.jpeg"
+    },
+    {
+      "id": "338",
+      "name": "Summer Smith",
+      "status": "Alive",
+      "species": "Human",
+      "image": "https://rickandmortyapi.com/api/character/avatar/338.jpeg"
+    },
+    {
+      "id": "394",
+      "name": "Davin",
+      "status": "Dead",
+      "species": "Cronenberg",
+      "image": "https://rickandmortyapi.com/api/character/avatar/394.jpeg"
+    },
+    {
+      "id": "395",
+      "name": "Greebybobe",
+      "status": "Alive",
+      "species": "Alien",
+      "image": "https://rickandmortyapi.com/api/character/avatar/395.jpeg"
+    },
+    {
+      "id": "435",
+      "name": "Pripudlian",
+      "status": "Alive",
+      "species": "Alien",
+      "image": "https://rickandmortyapi.com/api/character/avatar/435.jpeg"
+    }
+  ]
+}
