@@ -1,8 +1,8 @@
 import * as S from './styles'
 
 export type PaginationProps = {
-  next: number
-  prev: number
+  next?: number
+  prev?: number
   sendNextPage: (page: number) => void
   sendPrevPage: (page: number) => void
 }

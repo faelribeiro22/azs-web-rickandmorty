@@ -1,12 +1,13 @@
 import * as S from './styles'
 import EpisodeInfo from '../../components/EpisodeInfo'
 import ListCharacter from 'components/ListCharacter'
+import { CharacterCardProps } from 'components/CharacterCard'
 
 export type EpisodeProps = {
   episode: number
   name: string
   air_date: string
-  characters: Array<CharacterCardProps>
+  characters: CharacterCardProps[]
 }
 
 const Episode = ({ episode, name, air_date, characters }: EpisodeProps) => (

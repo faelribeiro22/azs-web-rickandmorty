@@ -4,17 +4,26 @@ import GET_EPISODES from 'graphql/queries/getRickAndMorry'
 import GET_EPISODES_PAGE from 'graphql/queries/getEpisodesPage'
 import GET_EPISODES_BY_NAME from 'graphql/queries/getEpisodeByName'
 import { useEffect, useState } from 'react'
-import { GetStaticPaths } from 'next'
+import { GetStaticProps } from 'next'
 import { EpisodesApiProps } from 'types/api'
 import client from 'graphql/client'
 import { CardEpisodeProps } from 'components/CardEpisode'
 import { PaginationProps } from 'components/Pagination'
 import GET_EPISODES_BY_ID from 'graphql/queries/getEpisodeById'
 
+const emptyPaginate = () => ({
+  next: 0,
+  prev: 0,
+  sendNextPage: () => {},
+  sendPrevPage: () => {}
+})
+
 export default function Home({ episodes, info }: EpisodesApiProps) {
   const [loading, setLoading] = useState(false)
   const [episodesList, setEpisodesList] = useState<Array<CardEpisodeProps>>([])
-  const [infoPagination, setInfoPagination] = useState<PaginationProps>({})
+  const [infoPagination, setInfoPagination] = useState<PaginationProps>(
+    emptyPaginate()
+  )
 
   useEffect(() => {
     if (episodes?.length === 0) {
@@ -50,7 +59,7 @@ export default function Home({ episodes, info }: EpisodesApiProps) {
       ids: episodesFavorites
     })
     setEpisodesList(episodesByIds)
-    setInfoPagination({})
+    setInfoPagination(emptyPaginate())
     setLoading(false)
   }
 
@@ -67,7 +76,7 @@ export default function Home({ episodes, info }: EpisodesApiProps) {
   )
 }
 
-export const getStaticProps: GetStaticPaths = async () => {
+export const getStaticProps: GetStaticProps = async () => {
   const { episodes } = await client.request(GET_EPISODES)
   return {
     props: {

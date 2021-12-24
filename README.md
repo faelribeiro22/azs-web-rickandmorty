@@ -4,12 +4,29 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+### Node version >= v14.17.0
+
+OR
+Using [NVM](https://github.com/nvm-sh/nvm) and execute this command:
+
+```bash
+nvm use
+```
+
 First, run the development server:
 
 ```bash
 npm run dev
 # or
 yarn dev
+```
+
+Run Storybook
+
+```bash
+npm run storybook
+# or
+yarn storybook
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

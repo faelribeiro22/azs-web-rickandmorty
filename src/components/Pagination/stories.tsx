@@ -6,13 +6,15 @@ export default {
   component: Pagination
 } as Meta
 
-export const Basic: Story = (args) => <Pagination {...args} />
+export const Basic: Story = (args) => (
+  <Pagination
+    sendNextPage={(next: number) => console.log('heyyy', next)}
+    sendPrevPage={(prev: number) => console.log('heyyy', prev)}
+    {...args}
+  />
+)
 
 Basic.args = {
-  count: 51,
-  pages: 3,
   next: 3,
-  prev: 1,
-  sendNextPage: (next: number) => console.log('heyyy', next),
-  sendPrevPage: (prev: number) => console.log('heyyy', prev)
+  prev: 1
 }

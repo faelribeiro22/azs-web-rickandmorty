@@ -1,10 +1,10 @@
 import * as S from './styles'
 import CharacterCard, { CharacterCardProps } from '../CharacterCard'
 
-const ListCharacter = (characters: Array<CharacterCardProps>) => (
+const ListCharacter = (characters: any) => (
   <S.Wrapper>
     {characters.characters &&
-      characters.characters?.map((character: CharacterCardProps) => (
+      characters.characters.map((character: CharacterCardProps) => (
         <CharacterCard
           key={character.id}
           name={character.name}
