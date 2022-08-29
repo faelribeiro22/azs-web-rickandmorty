@@ -3,6 +3,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+[Link Project](https://rick-morty-9es9944md-faelribeiro22.vercel.app/)
 
 ### Node version >= v14.17.0
 
